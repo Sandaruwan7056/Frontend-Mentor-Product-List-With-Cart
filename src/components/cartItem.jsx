@@ -20,7 +20,7 @@ function CartItem({ item }) {
         className="border-2 border-rose-300 w-4 h-4 flex rounded-full justify-center items-center"
       >
         <img
-          src="./public/assets/images/icon-remove-item.svg"
+          src="./assets/images/icon-remove-item.svg"
           alt="remove item button"
         />
       </button>

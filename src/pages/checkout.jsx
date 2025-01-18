@@ -21,7 +21,7 @@ function Checkout() {
             <div>
               <img
                 className="pb-4"
-                src="./public/assets/images/icon-order-confirmed.svg"
+                src="./assets/images/icon-order-confirmed.svg"
                 alt="order confirm"
               />
               <h1 className="text-4xl font-bold pb-4">Order Confirmed</h1>
