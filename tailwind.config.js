@@ -8,6 +8,7 @@ export default {
     colors: {
       red: "#C7390E",
       green: "#1EA374",
+      white:"#ffff",
       "rose-50": "#FCF9F7",
       "rose-100": "#F4EDEA",
       "rose-300": "#C9AEA5",

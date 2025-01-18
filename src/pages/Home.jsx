@@ -18,7 +18,7 @@ function Home() {
           </div>
         </section>
 
-        <div className=" h-fit  p-4 rounded-lg">
+        <div className=" bg-white h-fit  p-4 rounded-lg">
           <CartList />
         </div>
       </section>
