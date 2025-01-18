@@ -42,7 +42,7 @@ function CartList() {
           </div>
           <div className="flex gap-4 justify-center items-center py-4 bg-rose-100 rounded-md mb-4">
             <img
-              src="public/assets/images/icon-carbon-neutral.svg"
+              src="./assets/images/icon-carbon-neutral.svg"
               alt="carbon neutral"
             />
             <p className="text-sm">

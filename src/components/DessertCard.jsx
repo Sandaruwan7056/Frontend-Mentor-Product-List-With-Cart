@@ -29,7 +29,7 @@ function DessertCard({ dessert, item }) {
               className="border-rose-50 border rounded-full w-4 h-4 flex justify-center items-center"
             >
               <img
-                src="./public/assets/images/icon-decrement-quantity.svg"
+                src="./assets/images/icon-decrement-quantity.svg"
                 alt="decrement button"
               />
             </button>
@@ -39,7 +39,7 @@ function DessertCard({ dessert, item }) {
               className="border-rose-50 border rounded-full w-4 h-4 flex justify-center items-center "
             >
               <img
-                src="./public/assets/images/icon-increment-quantity.svg"
+                src="./assets/images/icon-increment-quantity.svg"
                 alt="increment button"
               />
             </button>
@@ -53,7 +53,7 @@ function DessertCard({ dessert, item }) {
             hover:border-red transition-all"
           >
             <img
-              src="./public/assets/images/icon-add-to-cart.svg"
+              src="./assets/images/icon-add-to-cart.svg"
               alt="add to cart"
             />
             Add to cart
