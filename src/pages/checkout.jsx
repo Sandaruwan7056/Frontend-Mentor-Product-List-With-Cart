@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { CartContext } from "../CartContext";
 import { useNavigate } from "react-router-dom";
-import OrderItems from "../components/orderItems";
+import OrderItems from "../components/OrderItems";
 
 function Checkout() {
   const cart = useContext(CartContext);
