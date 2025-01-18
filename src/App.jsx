@@ -6,7 +6,7 @@ import {
 } from "react-router-dom";
 
 import Home from "./pages/Home";
-import CartProvider from "./cartContext";
+import CartProvider from "./CartContext";
 import Checkout from "./pages/checkout";
 
 const router = createBrowserRouter( 
