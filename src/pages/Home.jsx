@@ -18,7 +18,7 @@ function Home() {
           </div>
         </section>
 
-        <div className="bg-rose-50 h-fit  p-4 rounded-lg">
+        <div className=" h-fit  p-4 rounded-lg">
           <CartList />
         </div>
       </section>
